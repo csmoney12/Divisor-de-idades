@@ -1,0 +1,7 @@
+C:\Users\guizi\source\repos\Atividade 2\Atividade 2\obj\Debug\Atividade 2.csprojAssemblyReference.cache
+C:\Users\guizi\source\repos\Atividade 2\Atividade 2\obj\Debug\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\guizi\source\repos\Atividade 2\Atividade 2\bin\Debug\Atividade 2.exe.config
+C:\Users\guizi\source\repos\Atividade 2\Atividade 2\bin\Debug\Atividade 2.exe
+C:\Users\guizi\source\repos\Atividade 2\Atividade 2\bin\Debug\Atividade 2.pdb
+C:\Users\guizi\source\repos\Atividade 2\Atividade 2\obj\Debug\Atividade 2.exe
+C:\Users\guizi\source\repos\Atividade 2\Atividade 2\obj\Debug\Atividade 2.pdb
